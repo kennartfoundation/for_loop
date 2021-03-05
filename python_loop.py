@@ -106,3 +106,11 @@ while chances >=0:
 Months = ["Jan","Feb","Mar","April","May","June"]
 for i, m in enumerate (Months):
 		print(i, m)
+  
+Months = ["Jan", "Feb", "Mar", "April", "May", "June"]
+for i, m in enumerate(Months):
+	print(i, m)
+ 
+Months = ["Jan", "Feb", "Mar", "April", "May", "June"]
+for i, m in enumerate(Months):
+	print(i, m)
